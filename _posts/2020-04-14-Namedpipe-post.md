@@ -1,6 +1,6 @@
 ---
 title: "C# Named Pipe 사용"
-date: "`r format(Sys.time(), '%d %B, %Y')`"
+date: 2020-04-14 12:28:28 -0400
 categories: develop
 ---
 회사에서 Rhapsody 연동 과정에서 SCC 관련 과부하 문제가 발생하였다.  
